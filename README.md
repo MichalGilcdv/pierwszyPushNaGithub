@@ -1,4 +1,3 @@
 ## Nauka Git'a
-*lubie to*
 
-ok
+Druga zmiana
